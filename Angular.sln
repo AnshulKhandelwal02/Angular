@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular.Web.Logging", "Angular.Web.Logging\Angular.Web.Logging.csproj", "{91EDDB7C-5FD2-4880-B632-0E327E9E0E6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91EDDB7C-5FD2-4880-B632-0E327E9E0E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EDDB7C-5FD2-4880-B632-0E327E9E0E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EDDB7C-5FD2-4880-B632-0E327E9E0E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EDDB7C-5FD2-4880-B632-0E327E9E0E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D74FB59C-51B8-48B7-B7C5-0513C49A15CB}
+	EndGlobalSection
+EndGlobal

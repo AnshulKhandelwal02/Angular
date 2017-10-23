@@ -1,0 +1,42 @@
+2017-10-23 23:15:15.075 +05:30 [Information] Starting web host
+2017-10-23 23:15:18.015 +05:30 [Information] User profile is available. Using '"C:\Users\anshul.khandelwal\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2017-10-23 23:15:39.486 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:57727/dist/__webpack_hmr  
+2017-10-23 23:16:26.605 +05:30 [Information] webpack built 5b7f2677792c32804875 in 49796ms
+2017-10-23 23:17:15.332 +05:30 [Information] Starting web host
+2017-10-23 23:17:18.986 +05:30 [Information] User profile is available. Using '"C:\Users\anshul.khandelwal\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2017-10-23 23:18:10.067 +05:30 [Information] Starting web host
+2017-10-23 23:18:11.722 +05:30 [Information] User profile is available. Using '"C:\Users\anshul.khandelwal\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2017-10-23 23:18:25.001 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:57727/dist/__webpack_hmr  
+2017-10-23 23:19:02.286 +05:30 [Information] Starting web host
+2017-10-23 23:19:05.564 +05:30 [Information] User profile is available. Using '"C:\Users\anshul.khandelwal\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2017-10-23 23:19:42.711 +05:30 [Information] Starting web host
+2017-10-23 23:19:43.866 +05:30 [Information] User profile is available. Using '"C:\Users\anshul.khandelwal\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2017-10-23 23:20:06.683 +05:30 [Information] Starting web host
+2017-10-23 23:20:07.797 +05:30 [Information] User profile is available. Using '"C:\Users\anshul.khandelwal\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2017-10-23 23:20:17.415 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:57727/dist/__webpack_hmr  
+2017-10-23 23:20:38.099 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:57727/home  
+2017-10-23 23:20:39.011 +05:30 [Information] Executing action method "Angular.Web.Logging.Controllers.HomeController.Index (Angular.Web.Logging)" with arguments (null) - ModelState is Valid
+2017-10-23 23:20:51.836 +05:30 [Information] webpack built 5b7f2677792c32804875 in 35730ms
+2017-10-23 23:20:56.108 +05:30 [Information] Executing ViewResult, running view at path "/Views/Home/Index.cshtml".
+2017-10-23 23:21:06.772 +05:30 [Information] Executed action "Angular.Web.Logging.Controllers.HomeController.Index (Angular.Web.Logging)" in 27830.4501ms
+2017-10-23 23:21:06.856 +05:30 [Information] HTTP "GET" "/home" responded 200 in 28666.3023 ms
+2017-10-23 23:21:06.881 +05:30 [Information] Request finished in 28780.3007ms 200 text/html; charset=utf-8
+2017-10-23 23:21:06.927 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:57727/dist/main-client.js?v=oXO2NYE3rJ9OzORMWqCW-HEfGlIN53WpjbfEiO03q1g  
+2017-10-23 23:21:06.941 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:57727/dist/vendor.css?v=b_M7vdGvPSJOo55_XCEeI_fYCVztjxk08tEeZj5UyoU  
+2017-10-23 23:21:06.953 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:57727/dist/vendor.js?v=RCvRrqPvM2Kc5BlkEQ045FeXR6gPMRIwfn51ludN14I  
+2017-10-23 23:21:07.005 +05:30 [Information] The file "/dist/vendor.css" was not modified
+2017-10-23 23:21:07.009 +05:30 [Information] HTTP "GET" "/dist/vendor.css" responded 304 in 14.2381 ms
+2017-10-23 23:21:07.014 +05:30 [Information] Request finished in 73.0355ms 304 text/css
+2017-10-23 23:21:07.070 +05:30 [Information] The file "/dist/vendor.js" was not modified
+2017-10-23 23:21:07.071 +05:30 [Information] HTTP "GET" "/dist/vendor.js" responded 304 in 0.9746 ms
+2017-10-23 23:21:07.071 +05:30 [Information] Request finished in 118.2709ms 304 application/javascript
+2017-10-23 23:21:07.094 +05:30 [Information] Request finished in 167.2675ms 200 application/javascript; charset=UTF-8
+2017-10-23 23:21:08.455 +05:30 [Information] Request finished in 51081.707ms 200 text/event-stream; charset=utf-8
+2017-10-23 23:21:10.714 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:57727/dist/__webpack_hmr  
+2017-10-23 23:21:15.877 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:57727/log  
+2017-10-23 23:21:15.890 +05:30 [Information] Executing action method "Angular.Web.Logging.Controllers.LogController.Index (Angular.Web.Logging)" with arguments (null) - ModelState is Valid
+2017-10-23 23:21:15.922 +05:30 [Information] Executing ContentResult with HTTP Response ContentType of "text/plain; charset=utf-8"
+2017-10-23 23:21:15.924 +05:30 [Information] Executed action "Angular.Web.Logging.Controllers.LogController.Index (Angular.Web.Logging)" in 35.685ms
+2017-10-23 23:21:15.925 +05:30 [Information] HTTP "GET" "/log" responded 200 in 47.1034 ms
+2017-10-23 23:21:15.925 +05:30 [Information] Request finished in 48.3005ms 200 text/plain; charset=utf-8
+2017-10-23 23:21:18.421 +05:30 [Information] Request finished in 7707.212ms 200 text/event-stream; charset=utf-8
